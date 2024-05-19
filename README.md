@@ -71,9 +71,9 @@ Through our NFC tool, the user enters our game developed with computer vision fo
     
 ```
 hackathon_portugal
-├── frontend
+├── mobile
 │   └── ...
-├── fidzgame
+├── game_alphabet.py
 │   └── ...
 ├── README.MD
 │   └── ...
@@ -82,9 +82,9 @@ hackathon_portugal
 
 #### `hackathon_portugal`
 
-- `front-end`
+- `mobile`
     - Frontend Application
-- `fidzgame`
+- `game_alphabet.py`
     - First game using computer vision
 - `README.md`
     - Documentation Project

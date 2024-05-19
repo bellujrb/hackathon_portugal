@@ -25,7 +25,7 @@ Through our NFC tool, the user enters our game developed with computer vision fo
 2. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/bellujrb/hackathons/edit/main/hackathon_portugal
+    git clone https://github.com/bellujrb/hackathon_portugal
     ```
 
 3. **Install Dependencies**
@@ -50,7 +50,7 @@ Through our NFC tool, the user enters our game developed with computer vision fo
 2. **Clone the Repository**
 
     ```bash
-    [git clone https://github.com/bellujrb/hackathon-lumx/backend](https://github.com/bellujrb/hackathons/edit/main/hackathon_portugal)
+    https://github.com/bellujrb/hackathon_portugal
     ```
 
 3. **Install Dependencies**
